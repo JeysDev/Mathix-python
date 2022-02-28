@@ -1,0 +1,16 @@
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\obj\Debug\net5.0\Mathix.csproj.AssemblyReference.cache
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\obj\Debug\net5.0\Mathix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\obj\Debug\net5.0\Mathix.AssemblyInfoInputs.cache
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\obj\Debug\net5.0\Mathix.AssemblyInfo.cs
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\obj\Debug\net5.0\Mathix.csproj.CoreCompileInputs.cache
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\bin\Debug\net5.0\Mathix.exe
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\bin\Debug\net5.0\Mathix.deps.json
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\bin\Debug\net5.0\Mathix.runtimeconfig.json
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\bin\Debug\net5.0\Mathix.runtimeconfig.dev.json
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\bin\Debug\net5.0\Mathix.dll
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\bin\Debug\net5.0\ref\Mathix.dll
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\bin\Debug\net5.0\Mathix.pdb
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\obj\Debug\net5.0\Mathix.dll
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\obj\Debug\net5.0\ref\Mathix.dll
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\obj\Debug\net5.0\Mathix.pdb
+C:\Users\jesus_c93q6kj\IMP\VSCodePrjs\Mathix\c#\obj\Debug\net5.0\Mathix.genruntimeconfig.cache
